@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Page</title>
+</head>
+<body>
+    <h3>About Me</h3>
+    <p>I'm learning HTML!</p>
+    <a href="https://www.example.com" target="_blank">Visit Example</a>
+    <form>
+        <input type="text" placeholder="Enter your name">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
