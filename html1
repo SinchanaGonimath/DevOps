@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Simple Page</title>
+</head>
+<body>
+    <h2>Welcome to My Site</h2>
+    <p>This is a simple HTML page.</p>
+    <img src="image.jpg" alt="An example image">
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+    </ul>
+</body>
+</html>
